@@ -8,7 +8,7 @@ const width = document.getElementById('inputWidth');
 const canvasGrid = document.getElementById('pixelCanvas');
 
 // When size is submitted by the user, call makeGrid()
-const pickSize = function (event) {
+const pickSize = function(event){
     event.preventDefault();
     makeGrid();
     console.log("test")
