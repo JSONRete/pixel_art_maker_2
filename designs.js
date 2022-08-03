@@ -11,7 +11,7 @@ const canvasGrid = document.getElementById('pixelCanvas');
 const pickSize = function(event){
     event.preventDefault();
     makeGrid();
-    console.log("test");
+    // console.log("test");
 };
 
 function makeGrid() {
