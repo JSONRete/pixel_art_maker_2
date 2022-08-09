@@ -14,8 +14,8 @@ const pickSize = function(event){
     // console.log("test");
 };
 
-// function makeGrid() {
-const makeGrid = function() {
+function makeGrid() {
+// const makeGrid = function() {
     // const makeGrid = function() {
 // Your code goes here!
 canvasGrid.innerHTML = ""
